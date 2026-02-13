@@ -1,0 +1,32 @@
+C:\Users\Danica\Desktop\ProjekatZastita\ProjekatZastita\bin\Debug\net8.0-windows\ProjekatZastita.exe
+C:\Users\Danica\Desktop\ProjekatZastita\ProjekatZastita\bin\Debug\net8.0-windows\ProjekatZastita.deps.json
+C:\Users\Danica\Desktop\ProjekatZastita\ProjekatZastita\bin\Debug\net8.0-windows\ProjekatZastita.runtimeconfig.json
+C:\Users\Danica\Desktop\ProjekatZastita\ProjekatZastita\bin\Debug\net8.0-windows\ProjekatZastita.dll
+C:\Users\Danica\Desktop\ProjekatZastita\ProjekatZastita\bin\Debug\net8.0-windows\ProjekatZastita.pdb
+C:\Users\Danica\Desktop\ProjekatZastita\ProjekatZastita\obj\Debug\net8.0-windows\ProjekatZastita.Form1.resources
+C:\Users\Danica\Desktop\ProjekatZastita\ProjekatZastita\obj\Debug\net8.0-windows\ProjekatZastita.csproj.GenerateResource.cache
+C:\Users\Danica\Desktop\ProjekatZastita\ProjekatZastita\obj\Debug\net8.0-windows\ProjekatZastita.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Danica\Desktop\ProjekatZastita\ProjekatZastita\obj\Debug\net8.0-windows\ProjekatZastita.AssemblyInfoInputs.cache
+C:\Users\Danica\Desktop\ProjekatZastita\ProjekatZastita\obj\Debug\net8.0-windows\ProjekatZastita.AssemblyInfo.cs
+C:\Users\Danica\Desktop\ProjekatZastita\ProjekatZastita\obj\Debug\net8.0-windows\ProjekatZastita.csproj.CoreCompileInputs.cache
+C:\Users\Danica\Desktop\ProjekatZastita\ProjekatZastita\obj\Debug\net8.0-windows\ProjekatZastita.dll
+C:\Users\Danica\Desktop\ProjekatZastita\ProjekatZastita\obj\Debug\net8.0-windows\refint\ProjekatZastita.dll
+C:\Users\Danica\Desktop\ProjekatZastita\ProjekatZastita\obj\Debug\net8.0-windows\ProjekatZastita.pdb
+C:\Users\Danica\Desktop\ProjekatZastita\ProjekatZastita\obj\Debug\net8.0-windows\ProjekatZastita.genruntimeconfig.cache
+C:\Users\Danica\Desktop\ProjekatZastita\ProjekatZastita\obj\Debug\net8.0-windows\ref\ProjekatZastita.dll
+C:\Users\Danica\Desktop\19417_ Danica_ Stojkovic\ProjekatZastita\bin\Debug\net8.0-windows\ProjekatZastita.exe
+C:\Users\Danica\Desktop\19417_ Danica_ Stojkovic\ProjekatZastita\bin\Debug\net8.0-windows\ProjekatZastita.deps.json
+C:\Users\Danica\Desktop\19417_ Danica_ Stojkovic\ProjekatZastita\bin\Debug\net8.0-windows\ProjekatZastita.runtimeconfig.json
+C:\Users\Danica\Desktop\19417_ Danica_ Stojkovic\ProjekatZastita\bin\Debug\net8.0-windows\ProjekatZastita.dll
+C:\Users\Danica\Desktop\19417_ Danica_ Stojkovic\ProjekatZastita\bin\Debug\net8.0-windows\ProjekatZastita.pdb
+C:\Users\Danica\Desktop\19417_ Danica_ Stojkovic\ProjekatZastita\obj\Debug\net8.0-windows\ProjekatZastita.Form1.resources
+C:\Users\Danica\Desktop\19417_ Danica_ Stojkovic\ProjekatZastita\obj\Debug\net8.0-windows\ProjekatZastita.csproj.GenerateResource.cache
+C:\Users\Danica\Desktop\19417_ Danica_ Stojkovic\ProjekatZastita\obj\Debug\net8.0-windows\ProjekatZastita.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Danica\Desktop\19417_ Danica_ Stojkovic\ProjekatZastita\obj\Debug\net8.0-windows\ProjekatZastita.AssemblyInfoInputs.cache
+C:\Users\Danica\Desktop\19417_ Danica_ Stojkovic\ProjekatZastita\obj\Debug\net8.0-windows\ProjekatZastita.AssemblyInfo.cs
+C:\Users\Danica\Desktop\19417_ Danica_ Stojkovic\ProjekatZastita\obj\Debug\net8.0-windows\ProjekatZastita.csproj.CoreCompileInputs.cache
+C:\Users\Danica\Desktop\19417_ Danica_ Stojkovic\ProjekatZastita\obj\Debug\net8.0-windows\ProjekatZastita.dll
+C:\Users\Danica\Desktop\19417_ Danica_ Stojkovic\ProjekatZastita\obj\Debug\net8.0-windows\refint\ProjekatZastita.dll
+C:\Users\Danica\Desktop\19417_ Danica_ Stojkovic\ProjekatZastita\obj\Debug\net8.0-windows\ProjekatZastita.pdb
+C:\Users\Danica\Desktop\19417_ Danica_ Stojkovic\ProjekatZastita\obj\Debug\net8.0-windows\ProjekatZastita.genruntimeconfig.cache
+C:\Users\Danica\Desktop\19417_ Danica_ Stojkovic\ProjekatZastita\obj\Debug\net8.0-windows\ref\ProjekatZastita.dll

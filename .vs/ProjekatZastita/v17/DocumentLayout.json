@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Danica\\Desktop\\19417_ Danica_ Stojkovic\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A1B2C3D4-E5F6-7890-ABCD-EF1234567890}|ProjekatZastita\\ProjekatZastita.csproj|c:\\users\\danica\\desktop\\19417_ danica_ stojkovic\\projekatzastita\\crypto\\sha1helper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1B2C3D4-E5F6-7890-ABCD-EF1234567890}|ProjekatZastita\\ProjekatZastita.csproj|solutionrelative:projekatzastita\\crypto\\sha1helper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1B2C3D4-E5F6-7890-ABCD-EF1234567890}|ProjekatZastita\\ProjekatZastita.csproj|c:\\users\\danica\\desktop\\19417_ danica_ stojkovic\\projekatzastita\\services\\fileencryptionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1B2C3D4-E5F6-7890-ABCD-EF1234567890}|ProjekatZastita\\ProjekatZastita.csproj|solutionrelative:projekatzastita\\services\\fileencryptionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1B2C3D4-E5F6-7890-ABCD-EF1234567890}|ProjekatZastita\\ProjekatZastita.csproj|c:\\users\\danica\\desktop\\19417_ danica_ stojkovic\\projekatzastita\\services\\filesystemwatcherservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1B2C3D4-E5F6-7890-ABCD-EF1234567890}|ProjekatZastita\\ProjekatZastita.csproj|solutionrelative:projekatzastita\\services\\filesystemwatcherservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1B2C3D4-E5F6-7890-ABCD-EF1234567890}|ProjekatZastita\\ProjekatZastita.csproj|c:\\users\\danica\\desktop\\19417_ danica_ stojkovic\\projekatzastita\\services\\networkservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1B2C3D4-E5F6-7890-ABCD-EF1234567890}|ProjekatZastita\\ProjekatZastita.csproj|solutionrelative:projekatzastita\\services\\networkservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1B2C3D4-E5F6-7890-ABCD-EF1234567890}|ProjekatZastita\\ProjekatZastita.csproj|c:\\users\\danica\\desktop\\19417_ danica_ stojkovic\\projekatzastita\\utils\\keyutils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1B2C3D4-E5F6-7890-ABCD-EF1234567890}|ProjekatZastita\\ProjekatZastita.csproj|solutionrelative:projekatzastita\\utils\\keyutils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1B2C3D4-E5F6-7890-ABCD-EF1234567890}|ProjekatZastita\\ProjekatZastita.csproj|c:\\users\\danica\\desktop\\19417_ danica_ stojkovic\\projekatzastita\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1B2C3D4-E5F6-7890-ABCD-EF1234567890}|ProjekatZastita\\ProjekatZastita.csproj|solutionrelative:projekatzastita\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SHA1Helper.cs",
+              "DocumentMoniker": "C:\\Users\\Danica\\Desktop\\19417_ Danica_ Stojkovic\\ProjekatZastita\\Crypto\\SHA1Helper.cs",
+              "RelativeDocumentMoniker": "ProjekatZastita\\Crypto\\SHA1Helper.cs",
+              "ToolTip": "C:\\Users\\Danica\\Desktop\\19417_ Danica_ Stojkovic\\ProjekatZastita\\Crypto\\SHA1Helper.cs",
+              "RelativeToolTip": "ProjekatZastita\\Crypto\\SHA1Helper.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-13T09:11:35.606Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "KeyUtils.cs",
+              "DocumentMoniker": "C:\\Users\\Danica\\Desktop\\19417_ Danica_ Stojkovic\\ProjekatZastita\\Utils\\KeyUtils.cs",
+              "RelativeDocumentMoniker": "ProjekatZastita\\Utils\\KeyUtils.cs",
+              "ToolTip": "C:\\Users\\Danica\\Desktop\\19417_ Danica_ Stojkovic\\ProjekatZastita\\Utils\\KeyUtils.cs",
+              "RelativeToolTip": "ProjekatZastita\\Utils\\KeyUtils.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-13T08:24:22.452Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Danica\\Desktop\\19417_ Danica_ Stojkovic\\ProjekatZastita\\Form1.cs",
+              "RelativeDocumentMoniker": "ProjekatZastita\\Form1.cs",
+              "ToolTip": "C:\\Users\\Danica\\Desktop\\19417_ Danica_ Stojkovic\\ProjekatZastita\\Form1.cs",
+              "RelativeToolTip": "ProjekatZastita\\Form1.cs",
+              "ViewState": "AQIAAIUAAAAAAAAAAAAAAGUCAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-13T03:41:40.927Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FileEncryptionService.cs",
+              "DocumentMoniker": "C:\\Users\\Danica\\Desktop\\19417_ Danica_ Stojkovic\\ProjekatZastita\\Services\\FileEncryptionService.cs",
+              "RelativeDocumentMoniker": "ProjekatZastita\\Services\\FileEncryptionService.cs",
+              "ToolTip": "C:\\Users\\Danica\\Desktop\\19417_ Danica_ Stojkovic\\ProjekatZastita\\Services\\FileEncryptionService.cs",
+              "RelativeToolTip": "ProjekatZastita\\Services\\FileEncryptionService.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAYwDUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-12T20:34:57.853Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FileSystemWatcherService.cs",
+              "DocumentMoniker": "C:\\Users\\Danica\\Desktop\\19417_ Danica_ Stojkovic\\ProjekatZastita\\Services\\FileSystemWatcherService.cs",
+              "RelativeDocumentMoniker": "ProjekatZastita\\Services\\FileSystemWatcherService.cs",
+              "ToolTip": "C:\\Users\\Danica\\Desktop\\19417_ Danica_ Stojkovic\\ProjekatZastita\\Services\\FileSystemWatcherService.cs",
+              "RelativeToolTip": "ProjekatZastita\\Services\\FileSystemWatcherService.cs",
+              "ViewState": "AQIAAFgAAAAAAAAAAAAwwHUAAABJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-13T02:31:02.464Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "NetworkService.cs",
+              "DocumentMoniker": "C:\\Users\\Danica\\Desktop\\19417_ Danica_ Stojkovic\\ProjekatZastita\\Services\\NetworkService.cs",
+              "RelativeDocumentMoniker": "ProjekatZastita\\Services\\NetworkService.cs",
+              "ToolTip": "C:\\Users\\Danica\\Desktop\\19417_ Danica_ Stojkovic\\ProjekatZastita\\Services\\NetworkService.cs",
+              "RelativeToolTip": "ProjekatZastita\\Services\\NetworkService.cs",
+              "ViewState": "AQIAAFMAAAAAAAAAAAAjwGMAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-13T02:31:11.514Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
